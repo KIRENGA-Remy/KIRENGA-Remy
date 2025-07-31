@@ -1,5 +1,4 @@
-# KIRENGA-Remy
- / README.md
+# KIRENGA-Remy / README.md
 
 Howdy! Folks 👋
 
