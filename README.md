@@ -2,7 +2,7 @@
 
 Howdy! Folks 👋
 
-I am **GITORI Remy Claudien**.
+I am **GITOLI Remy Claudien**.
 
 **Passionate Software Developer.** 
 
