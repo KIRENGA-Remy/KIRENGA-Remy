@@ -4,7 +4,7 @@ Howdy! Folks 👋
 
 I am **GITORI Remy Claudien**.
 
-**Passionate Software Developer.** Check out my resume [here]([https://example.com/resume.pdf](https://docs.google.com/document/d/1duACLtZ3YyhuNgdadSEGwyehRkDEAzRDxmSrP_k9QOo/edit?usp=sharing))
+**Passionate Software Developer.** 
 
 Feel free to run around in my repos, and code.
 
