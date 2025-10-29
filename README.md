@@ -13,7 +13,7 @@ And if you’ve got something to tell me, just contact me via any of the links b
 - Phone: +250792441050
 - Gmail: gitoliremy@gmail.com
 - Whatsapp: [https://wa.me/250792441050](https://wa.me/250792441050)
-- LinkedIn: [https://www.linkedin.com/in/kirengaremyclaudien/](https://www.linkedin.com/in/kirengaremyclaudien/)
+- LinkedIn: [[https://www.linkedin.com/in/remy-claudien-gitoli/](https://www.linkedin.com/in/remy-claudien-gitoli-255116395/)]
 - Good day!
 
 <!--
