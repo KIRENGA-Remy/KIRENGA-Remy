@@ -1,6 +1,6 @@
 Howdy! Folks 👋
 
-# I am GITOLI Remy Claudien
+# I am GITORI Remy Claudien
 
 **Passionate Software Developer.** 
 
