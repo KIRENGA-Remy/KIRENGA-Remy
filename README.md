@@ -6,7 +6,7 @@ Howdy! Folks 👋
 
 Feel free to run around in my repos and code.
 
-Ask me anything related to **Springboot**, **Nodejs**, **Angular**, **Reactjs**, **DevOps**, **PostgreSQL**, **PHP**, **NextJS**, **MachineLearning**, and anything more you'll need to know.
+Ask me anything related to **Springboot**, **Nodejs**, **Angular**, **Reactjs**, **React Native**, **Flutter**, **DevOps**, **PostgreSQL**, **PHP**, **NextJS**, **MachineLearning**, and anything more you'll need to know.
 
 And if you’ve got something to tell me, just contact me via any of the links below.
 
